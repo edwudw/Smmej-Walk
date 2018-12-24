@@ -4,6 +4,8 @@ This is a website that uses the Google Maps API. It gets your current location, 
 # Usage
 The website is available at http://edwudw.me/
 
+Visit the DevPost! https://devpost.com/software/smmej-walk
+
 # Screenshots
 ## London 
 ![Screenshot 1](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/669/466/datas/gallery.jpg)
