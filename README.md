@@ -1,5 +1,5 @@
 # Journey
-Random route finder for guided wandering
+This is a website that uses the Google Maps API. It gets your current location, and asks for a distance. Then it plots out a randomly-generated walking route for you to follow, and takes you to various points of interest. It was created by Edward Webb, Martin Zhao, Scott Allen, and Maddie Jones at UniHack Sydney 2018! 
 
 # Usage
 The website is available at http://edwudw.me/
